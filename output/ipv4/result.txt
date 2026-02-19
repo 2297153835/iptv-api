@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-19 17:40:15,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-02-19 20:11:57,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -109,6 +109,7 @@ CETV-4,http://183.133.84.179:4022/rtp/233.50.200.174:5140
 广东卫视,http://23.237.228.134/live6/guangdong.m3u8
 广东卫视,http://113.120.108.132:4000/rtp/239.21.1.92:5002
 广东卫视,http://171.117.151.108:10010/rtp/226.0.2.146:9080
+香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
