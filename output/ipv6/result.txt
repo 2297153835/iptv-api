@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-20 23:37:56,https://iptv.catvod.com/live.php?id=CCTV1&line=16
+2026-02-22 18:35:14,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
@@ -221,27 +221,9 @@ CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260216080233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=218.28.233.106&SecurityKey=20260216080233&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4380d1b7c3d1203a6efa8d16c02df669&sv=10004&ct=android
 CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
+📺港·澳·台,#genre#
+
 📡卫视频道,#genre#
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰香港,http://r.jdshipin.com/NfC0f
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,https://mgev.188766.xyz/?migutoken=31206284b8700dd6871da4a602998d5e&id=fhhk&pp=1
-凤凰香港,https://mgev.188766.xyz/?migutoken=85e8fef459b48c079bf6b77239f4a662&id=hk_fhhk&type=dy
-凤凰香港,https://smt.1678520.xyz/smt3.2.3.php?id=hkphoenix_twn
-凤凰香港,https://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
-凤凰香港,https://smart.946985.filegear-sg.me/smart.php?id=hkphoenix_twn
-凤凰香港,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
-凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://cdn6.163189.xyz/163189/fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
-凤凰中文,https://smart.946985.filegear-sg.me/smart.php?id=phoenixtv_hd
-凤凰中文,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-凤凰中文,http://php.jdshipin.com:8880/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=4
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=1
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2
@@ -699,3 +681,5 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-3.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-4.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-2.ctv
+
+☘️少儿频道,#genre#
